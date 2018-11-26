@@ -9,11 +9,6 @@ public class Test {
         System.out.println("ololo");
         System.out.println("ololo");
         System.out.println("ololo");
-        System.out.println("ololo1");
-        System.out.println("ololo1");
-        System.out.println("ololo1");
-        System.out.println("ololo1");
-        System.out.println("ololo1");
-        System.out.println("ololo1");
+        System.out.println("ololo");
     }
 }
