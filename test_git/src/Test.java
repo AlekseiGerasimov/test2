@@ -18,6 +18,10 @@ public class Test {
         System.out.println("ololo2");
         System.out.println("ololo2");
         System.out.println("ololo2");
+        System.out.println("ololo2");
+        System.out.println("ololo2");
+        System.out.println("ololo");
+        System.out.println("ololo");
         System.out.println("ololo");
     }
 }
