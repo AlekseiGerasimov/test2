@@ -7,10 +7,5 @@ public class Test {
         System.out.println("here");
         System.out.println("git");
         System.out.println("brabch1");
-        System.out.println("git");
-        System.out.println("here");
-        System.out.println("here");
-        System.out.println("here");
-        System.out.println("here");
     }
 }
